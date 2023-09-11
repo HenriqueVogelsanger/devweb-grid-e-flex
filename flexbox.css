@@ -1,0 +1,26 @@
+.header { 
+    background-color: #9b1a1a; 
+    color: #fa7474; 
+    text-align: center; 
+    padding: 1rem; 
+    }
+     .flex-container { 
+        display: flex; 
+        flex-wrap: wrap; 
+        gap: 40px; 
+        padding: 40px; 
+        } 
+        .flex-item { 
+        flex: 1; 
+    
+    border: 1px solid #764ee2; 
+    padding: 1rem; 
+    min-width: 265px; 
+        }
+        .footer { 
+            background-color: #c97575; 
+            color: #baf1c8; 
+            text-align: center; 
+            padding: 1rem; 
+            } 
+            
